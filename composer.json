@@ -1,0 +1,14 @@
+{
+    "name": "ivancli/alpha-vantage",
+    "description": "This package provides methods to access alpha vantage APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Li",
+            "email": "ivan.li@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
